@@ -20,7 +20,7 @@
   <img src="docs/resources/nota-editar-excluir.png" width="32%" />
 </p>
 
-App to create, save and delete notes.
+React Native app to create, save and delete notes.
 
 ## Installation
 
